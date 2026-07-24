@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -21,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
