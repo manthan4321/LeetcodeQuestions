@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0069-sqrtx) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
