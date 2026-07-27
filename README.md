@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2469-convert-the-temperature](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2469-convert-the-temperature) |
+| [3099-harshad-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3099-harshad-number) |
 ## Simulation
 |  |
 | ------- |
