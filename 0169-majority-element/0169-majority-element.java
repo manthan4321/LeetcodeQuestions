@@ -1,20 +1,13 @@
 class Solution {
-    public int majorityElement(int[] arr) {
-        Arrays.sort(arr);
-        int n=arr.length;
-        for(int i=0;i<n;i++){
-            int count=0;
-            for(int j=0;j<n;j++){
-                if(arr[i]==arr[j]){
-                    count++;
-                }
+    public int majorityElement(int[] nums) {
+        // ab ye approach kuch aise hai ki isme agr ham array sort karde 
+        // to array aise bnega ki jo majority me hai vo array ke n/2 pe aayega 
+        // jaise [3,2,3] = [2,3,3] n/2th element konsa hoga-3rd to whi ans hoga
+        // ye optimized approach hai
+        Arrays.sort(nums);
+        int n=nums.length;
+        return nums[n/2];
 
-            }
-            if(count>n/2){
-                return arr[i];
-            }
-        }
-        return -1;
         
     }
 }
