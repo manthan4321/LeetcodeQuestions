@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1539-kth-missing-positive-number) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
 | ------- |
