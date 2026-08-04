@@ -3,7 +3,7 @@ class Solution {
         ArrayList<Integer>arr2=new ArrayList<>();
         Arrays.sort(arr);
         int n=arr.length;
-        // min and max find krke uske bich traverse karo and then check kreenge
+        // min and max find krke uske bich traverse karo and then purra array check kreenge ek inner loop lgake ki kya vo min se leke max tak sare elements cover krta hai
         int min=Integer.MAX_VALUE;
         int max=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
