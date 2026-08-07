@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0704-binary-search) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0342-power-of-four) |
