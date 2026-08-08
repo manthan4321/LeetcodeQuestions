@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0342-power-of-four) |
 ## String
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0412-fizz-buzz) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
