@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0412-fizz-buzz) |
+| [1678-goal-parser-interpretation](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1678-goal-parser-interpretation) |
 ## Backtracking
 |  |
 | ------- |
