@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3925-concatenate-array-with-reverse) |
 ## Divide and Conquer
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3731-find-missing-elements) |
 ## Interactive
 |  |
