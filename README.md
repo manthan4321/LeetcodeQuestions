@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2469-convert-the-temperature](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2652-sum-multiples) |
