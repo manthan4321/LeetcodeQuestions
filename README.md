@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0912-sort-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
@@ -242,4 +246,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0292-nim-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
