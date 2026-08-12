@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0412-fizz-buzz) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
