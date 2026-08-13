@@ -1,5 +1,6 @@
 class Solution {
     public int sumOddLengthSubarrays(int[] arr) {
+
         int n=arr.length;
         int sum=0;
         for(int i=0;i<n;i++){
@@ -21,4 +22,7 @@ class Solution {
 
         
     }
+
+    //logic ->ar alg alg variable lene hai to condn legegi if i==j wli or agr 
+    //odd length subbarrays lene hai to uska logic if (i+j) %2==0 hua to condns lgegi
 }
