@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1539-kth-missing-positive-number) |
+| [1572-matrix-diagonal-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1929-concatenation-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1929-concatenation-of-array) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1572-matrix-diagonal-sum) |
 ## Math
 |  |
 | ------- |
