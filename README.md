@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1534-count-good-triplets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1534-count-good-triplets) |
 | [2843-count-symmetric-integers](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
