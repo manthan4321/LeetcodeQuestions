@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1486-xor-operation-in-an-array) |
 | [2469-convert-the-temperature](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2843-count-symmetric-integers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1486-xor-operation-in-an-array) |
 ## String
 |  |
 | ------- |
