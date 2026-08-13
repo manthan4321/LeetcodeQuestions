@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -180,10 +181,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
 |  |
 | ------- |
