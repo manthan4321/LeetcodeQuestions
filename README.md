@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0704-binary-search) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0441-arranging-coins) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1486-xor-operation-in-an-array) |
@@ -297,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0493-reverse-pairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
