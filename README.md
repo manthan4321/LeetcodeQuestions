@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1816-truncate-sentence](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3731-find-missing-elements) |
 ## Interactive
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1486-xor-operation-in-an-array) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
 | ------- |
@@ -252,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1768-merge-strings-alternately](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1816-truncate-sentence) |
 ## Backtracking
