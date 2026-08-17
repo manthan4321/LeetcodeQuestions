@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1816-truncate-sentence) |
 ## Backtracking
 |  |
 | ------- |
