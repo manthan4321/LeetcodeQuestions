@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1528-shuffle-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1528-shuffle-string) |
 | [1534-count-good-triplets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1534-count-good-triplets) |
 | [1539-kth-missing-positive-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1572-matrix-diagonal-sum) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
