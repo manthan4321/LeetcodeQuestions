@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1470-shuffle-the-array) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3925-concatenate-array-with-reverse](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3925-concatenate-array-with-reverse) |
