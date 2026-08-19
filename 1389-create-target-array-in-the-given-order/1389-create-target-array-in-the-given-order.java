@@ -1,5 +1,6 @@
 class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
+        
         ArrayList<Integer>res=new ArrayList<>();
         int []arr=new int[nums.length];
         
