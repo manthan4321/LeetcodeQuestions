@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2206-divide-array-into-equal-pairs](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2206-divide-array-into-equal-pairs](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3731-find-missing-elements) |
 ## Interactive
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2206-divide-array-into-equal-pairs) |
 ## String
 |  |
 | ------- |
