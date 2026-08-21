@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
