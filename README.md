@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0066-plus-one) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0078-subsets) |
