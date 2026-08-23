@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1816-truncate-sentence) |
+| [3498-reverse-degree-of-a-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3498-reverse-degree-of-a-string) |
 ## Backtracking
 |  |
 | ------- |
