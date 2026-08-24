@@ -10,5 +10,6 @@ class Solution {
         return count;
         
     }
+    // iss question ka meaning ye hai ki ant kitni baar total boundary par aai matlab kitni baar 0th position par aayi to jhn par sum 0 hoga usko count krlo bs
     
 }
