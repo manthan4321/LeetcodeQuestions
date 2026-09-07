@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2596-check-knight-tour-configuration](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2596-check-knight-tour-configuration) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2596-check-knight-tour-configuration](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2596-check-knight-tour-configuration) |
 ## Math
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1929-concatenation-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2596-check-knight-tour-configuration](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2596-check-knight-tour-configuration) |
 | [3028-ant-on-the-boundary](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3498-reverse-degree-of-a-string) |
@@ -436,4 +439,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0877-stone-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
