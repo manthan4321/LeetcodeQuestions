@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3028-ant-on-the-boundary](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3731-find-missing-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3925-concatenate-array-with-reverse) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3099-harshad-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3875-construct-uniform-parity-array-i) |
