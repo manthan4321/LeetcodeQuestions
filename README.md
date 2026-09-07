@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1051-height-checker) |
+| [1219-path-with-maximum-gold](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0074-search-a-2d-matrix) |
+| [1219-path-with-maximum-gold](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1219-path-with-maximum-gold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1572-matrix-diagonal-sum) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0078-subsets) |
+| [1219-path-with-maximum-gold](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1219-path-with-maximum-gold) |
 ## Bracket Sequences
 |  |
 | ------- |
