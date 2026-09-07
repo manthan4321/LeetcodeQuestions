@@ -17,8 +17,8 @@ class Solution {
         
         int sum=0;
         for(int i=0;i<arr.size();i++){
-            sum += Integer.parseInt(arr.get(i));
-        }
+            sum += Integer.parseInt(arr.get(i));   // jo pehla path aaya uska sum nikaala fir sidha hi max store kra liya
+        } 
         
         max=Math.max(max,sum);
         
