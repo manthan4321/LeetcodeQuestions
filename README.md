@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0073-set-matrix-zeroes) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0876-middle-of-the-linked-list) |
