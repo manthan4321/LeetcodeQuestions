@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3978-unique-middle-element) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3978-unique-middle-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3978-unique-middle-element) |
 ## Matrix
 |  |
 | ------- |
