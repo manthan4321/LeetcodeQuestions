@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3959-check-good-integer) |
 ## Simulation
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3028-ant-on-the-boundary](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3028-ant-on-the-boundary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3498-reverse-degree-of-a-string) |
+| [3894-traffic-signal-color](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3894-traffic-signal-color) |
 | [3925-concatenate-array-with-reverse](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3959-check-good-integer) |
 ## Hash Table
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3794-reverse-string-prefix) |
+| [3894-traffic-signal-color](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3894-traffic-signal-color) |
 ## Backtracking
 |  |
 | ------- |
