@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0876-middle-of-the-linked-list) |
