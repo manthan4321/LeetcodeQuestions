@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2652-sum-multiples) |
 | [2843-count-symmetric-integers](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2843-count-symmetric-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
