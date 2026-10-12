@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1952-three-divisors](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2469-convert-the-temperature) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1534-count-good-triplets) |
+| [1952-three-divisors](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1952-three-divisors) |
 | [2843-count-symmetric-integers](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Zero-Sum Game
 |  |
@@ -518,4 +521,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
