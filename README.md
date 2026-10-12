@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1748-sum-of-unique-elements) |
 | [1816-truncate-sentence](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2652-sum-multiples) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -507,4 +510,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2596-check-knight-tour-configuration) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
