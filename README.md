@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 | [2596-check-knight-tour-configuration](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2596-check-knight-tour-configuration) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2574-left-and-right-sum-differences](https://github.com/manthan4321/LeetcodeQuestions/tree/master/2574-left-and-right-sum-differences) |
 | [3028-ant-on-the-boundary](https://github.com/manthan4321/LeetcodeQuestions/tree/master/3028-ant-on-the-boundary) |
 ## Binary Indexed Tree
 |  |
