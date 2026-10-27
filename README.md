@@ -538,4 +538,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/manthan4321/LeetcodeQuestions/tree/master/1952-three-divisors) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
