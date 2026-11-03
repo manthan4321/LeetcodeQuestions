@@ -10,8 +10,10 @@
  */
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
+        //pehle hi base case bna lo
         if(head.next==null) return head;
-        ListNode slow=head;
+        // step1 ->last kth node ko access karlo
+        ListNode slow= head;
         ListNode fast=head;
         for(int i=1;i<=k;i++){
             fast=fast.next;
@@ -20,18 +22,18 @@ class Solution {
             slow=slow.next;
             fast=fast.next;
         }
-        // ab mera slow pointer alreaddy last kth node pe jaa chuka hai ab bas beginning se access karna hai
+        //  step2 ->now ab first se k ki value access karlo
         ListNode slow2=head;
         for(int i=1;i<k;i++){
             slow2=slow2.next;
+
         }
-        
+        //now step3 -> swap kardo
         int temp=slow.val;
         slow.val=slow2.val;
         slow2.val=temp;
         return head;
 
 
-        
     }
 }
