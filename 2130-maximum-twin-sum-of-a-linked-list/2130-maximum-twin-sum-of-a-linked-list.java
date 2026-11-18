@@ -37,9 +37,7 @@ class Solution {
         int maxsum=0;
         while(i!=null){
             int sum=i.val+j.val;
-            if(sum>maxsum){
-                maxsum=sum;
-            }
+            maxsum=Math.max(maxsum,sum);
             i=i.next;
             j=j.next;
 
