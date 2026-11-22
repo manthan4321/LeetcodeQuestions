@@ -1,25 +1,15 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        // Most imp BY kedanes algorithm
-        int sum=0;
+        int currsum=0;
         int maxsum=Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
-              
-        if(sum>maxsum){  // we written this inside loop because agr loop ke bahar likha then ye pure array ka sum calculate krega or maxsum ke sath pure elements ke sum ka comparison hoga or agr single single element ke sath krwana hai to loop ke andar likho
-            maxsum=sum;
+        int n=nums.length;
+        for(int i=0;i<n;i++){
+            currsum+=nums[i];
+            maxsum=Math.max(currsum,maxsum);
+            if(currsum<0) currsum=0;
         }
-         if(sum<0){
-            sum=0;
-        }
-        }
-       
-       
-
-
-
-       
         return maxsum;
+
         
     }
 }
