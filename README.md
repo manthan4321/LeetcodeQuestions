@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0451-sort-characters-by-frequency) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/manthan4321/LeetcodeQuestions/tree/master/0557-reverse-words-in-a-string-iii) |
